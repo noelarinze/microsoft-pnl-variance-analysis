@@ -9,7 +9,7 @@ Table of Content
 - [Results](https://github.com/noelarinze/microsoft-pnl-variance-analysis/edit/main/README.md#results)
 - [Recommendations](https://github.com/noelarinze/microsoft-pnl-variance-analysis/edit/main/README.md#recommendations)
 
-# Project Overview
+## Project Overview
 
 This project analyzes Microsoft’s Q1 FY2023 financial performance compared to Q1 FY2022 using actual 10-Q SEC filing data. The goal was to perform a variance analysis that helps stakeholders understand revenue growth, cost shifts, and profitability changes at a glance. The insights derived from this analysis enable executives and investors to assess financial health, spot risk areas, and identify strategic focus points for the next fiscal quarter.
 
@@ -62,13 +62,13 @@ Results
 
 The financial results highlight Microsoft’s performance across core revenue streams, profitability, and operational efficiency between Q1 FY2023 and Q1 FY2022. While growth was achieved in several key areas, some underlying shifts suggest opportunities for strategic realignment and operational tightening.
 
-# Chapter 1: Revenue Performance
+### Chapter 1: Revenue Performance
 
 Microsoft recorded a 10.6% year-over-year revenue growth, rising from $45.3B to $50.1B. This growth was primarily fueled by a 19.9% surge in service and other revenue, signaling Microsoft’s successful transition toward cloud-based and recurring income streams. However, product revenue declined by 5.3%, potentially reflecting softened hardware or traditional software sales.
 
 Insight: The shift toward service-driven growth validates Microsoft’s long-term strategic pivot but may require renewed focus on diversifying product offerings or bundling models.
 
-# Chapter 2: Profitability Trends
+### Chapter 2: Profitability Trends
 
 Despite macroeconomic headwinds, Microsoft maintained healthy profitability:
 	•	Gross margin improved to $34.7B, a 9.5% increase indicating strong cost control.
@@ -77,7 +77,7 @@ Despite macroeconomic headwinds, Microsoft maintained healthy profitability:
 
 Insight: While core operations remain profitable, tax volatility poses short-term pressure on bottom-line performance.
 
-# Chapter 3: Operational Efficiency
+### Chapter 3: Operational Efficiency
 
 Microsoft’s key performance indicators reflect overall resilience but reveal areas for optimization:
 
@@ -88,7 +88,7 @@ Microsoft’s key performance indicators reflect overall resilience but reveal a
 
    The decline in margins, particularly Net Margin, underscores the outsized impact of tax and expense volatility.
 
-# Chapter 4: Variance Breakdown
+### Chapter 4: Variance Breakdown
 
 A variance waterfall chart was constructed to illustrate how each cost and revenue line item contributed to total change in operating income. Notable increases were seen in:
 	•	R&D Spend (+18.4%)
@@ -99,7 +99,7 @@ Meanwhile, product revenue and net income showed negative variance, triggering a
 
 Insight: Cost increases appear investment-driven rather than efficiency losses — suggesting strategic growth spending rather than leakage.
 
-# Chapter 5: Tools & Visualization Summary
+### Chapter 5: Tools & Visualization Summary
 
 Key insights were visualized using both Excel and Power BI dashboards:
 	•	The Excel dashboard offered static, high-level KPI tracking, variance bars, and side-by-side comparisons.
