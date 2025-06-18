@@ -71,9 +71,9 @@ Insight: The shift toward service-driven growth validates Microsoft’s long-ter
 ### Chapter 2: Profitability Trends
 
 Despite macroeconomic headwinds, Microsoft maintained healthy profitability:
-	•	Gross margin improved to $34.7B, a 9.5% increase indicating strong cost control.
-	•	Operating income rose 6.3%, reflecting disciplined spending across R&D and administrative channels.
-	•	However, net income dropped by 14.4%, largely due to a sharp increase in income tax provisions. Q1 FY2023 saw a $4.02B tax charge, compared to just $19M in Q1 FY2022.
+1. Gross margin improved to $34.7B, a 9.5% increase indicating strong cost control.
+2. Operating income rose 6.3%, reflecting disciplined spending across R&D and administrative channels.
+3. However, net income dropped by 14.4%, largely due to a sharp increase in income tax provisions. Q1 FY2023 saw a $4.02B tax charge, compared to just $19M in Q1 FY2022.
 
 Insight: While core operations remain profitable, tax volatility poses short-term pressure on bottom-line performance.
 
