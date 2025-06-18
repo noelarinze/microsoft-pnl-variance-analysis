@@ -91,9 +91,9 @@ Microsoft’s key performance indicators reflect overall resilience but reveal a
 ### Chapter 4: Variance Breakdown
 
 A variance waterfall chart was constructed to illustrate how each cost and revenue line item contributed to total change in operating income. Notable increases were seen in:
-	•	R&D Spend (+18.4%)
-	•	Sales and Marketing (+12.7%)
-	•	Service and Other Cost (+13.1%)
+1. R&D Spend (+18.4%)
+2. Sales and Marketing (+12.7%)
+3. Service and Other Cost (+13.1%)
 
 Meanwhile, product revenue and net income showed negative variance, triggering alerts for further review.
 
@@ -102,17 +102,17 @@ Insight: Cost increases appear investment-driven rather than efficiency losses �
 ### Chapter 5: Tools & Visualization Summary
 
 Key insights were visualized using both Excel and Power BI dashboards:
-	•	The Excel dashboard offered static, high-level KPI tracking, variance bars, and side-by-side comparisons.
-	•	The Power BI dashboard allowed users to interact via slicers, drill into specific line items, and dynamically compare Q1 2023 vs Q1 2022 across multiple metrics.
+1. The Excel dashboard offered static, high-level KPI tracking, variance bars, and side-by-side comparisons.
+2. The Power BI dashboard allowed users to interact via slicers, drill into specific line items, and dynamically compare Q1 2023 vs Q1 2022 across multiple metrics.
 
 Conclusion: Power BI enhanced storytelling and exploration, while Excel offered simplicity for quick insights and traditional reporting formats.
 
 ## Files in the Repository
 
 This repository contains the following files to showcase the full scope of the analysis:
-📊 Microsoft_PnL_Variance_Analysis.xlsx
+1. 📊 Microsoft_PnL_Variance_Analysis.xlsx
 Contains the raw data table, variance calculations, KPIs, and the static Excel dashboard.
-📈 Microsoft_PnL_Variance_Dashboard.pbix
+2. 📈 Microsoft_PnL_Variance_Dashboard.pbix
 An interactive Power BI version of the dashboard with slicers, tooltips, and YoY variance comparisons.
-📝 README.md
+3. 📝 README.md
 Full project documentation covering the background, methodology, analysis, results, and insights.
