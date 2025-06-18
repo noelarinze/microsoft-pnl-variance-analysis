@@ -9,7 +9,7 @@ Table of Content
 - [Results](https://github.com/noelarinze/microsoft-pnl-variance-analysis/edit/main/README.md#results)
 - [Recommendations](https://github.com/noelarinze/microsoft-pnl-variance-analysis/edit/main/README.md#recommendations)
 
-## Project Overview
+# Project Overview
 
 This project analyzes Microsoft’s Q1 FY2023 financial performance compared to Q1 FY2022 using actual 10-Q SEC filing data. The goal was to perform a variance analysis that helps stakeholders understand revenue growth, cost shifts, and profitability changes at a glance. The insights derived from this analysis enable executives and investors to assess financial health, spot risk areas, and identify strategic focus points for the next fiscal quarter.
 
