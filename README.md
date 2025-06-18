@@ -1,12 +1,13 @@
 # Microsoft P&L Variance Analysis
 
 Table of Content
-	•	Project Overview
-	•	Data Source
-	•	Tools
-	•	Exploratory Data Analysis
-	•	Data Analysis & Results
-	•	Recommendations
+- [Project Overview](https://github.com/noelarinze/Blue-Palm-Hospitality-Metrics/edit/main/README.md#project-overview)
+- [Data source](https://github.com/noelarinze/Blue-Palm-Hospitality-Metrics/edit/main/README.md#data-source)
+- [Tools](https://github.com/noelarinze/Blue-Palm-Hospitality-Metrics/edit/main/README.md#tools)
+- [Exploratory data analysis](https://github.com/noelarinze/Blue-Palm-Hospitality-Metrics/edit/main/README.md#exploratory-data-analysis)
+- [Data analysis](https://github.com/noelarinze/Blue-Palm-Hospitality-Metrics/edit/main/README.md#data-analysis)
+- [Results](https://github.com/noelarinze/Blue-Palm-Hospitality-Metrics/edit/main/README.md#results)
+- [Recommendations](https://github.com/noelarinze/Blue-Palm-Hospitality-Metrics/edit/main/README.md#recommendations)
 
 ## Project Overview
 
