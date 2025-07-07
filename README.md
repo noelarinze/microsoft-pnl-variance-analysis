@@ -110,9 +110,9 @@ Conclusion: Power BI enhanced storytelling and exploration, while Excel offered 
 ## Files in the Repository
 
 This repository contains the following files to showcase the full scope of the analysis:
-1. 📊 Microsoft_PnL_Variance_Analysis.xlsx
+1. Microsoft_PnL_Variance_Analysis.xlsx
 Contains the raw data table, variance calculations, KPIs, and the static Excel dashboard.
-2. 📈 Microsoft_PnL_Variance_Dashboard.pbix
+2. Microsoft_PnL_Variance_Dashboard.pbix
 An interactive Power BI version of the dashboard with slicers, tooltips, and YoY variance comparisons.
-3. 📝 README.md
+3. README.md
 Full project documentation covering the background, methodology, analysis, results, and insights.
